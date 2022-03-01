@@ -1,0 +1,7 @@
+int main()
+{
+int abc, id ;
+abc= 0;
+1xyz= 1;
+_pr= 4;
+}
